@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on something cool
-- 🎓 I’m an Coding enthusiast & a Problem Solver currently Pursuing CSE.
-- 🎯 Learning DSA and Web-Devlopment
-- ⚡ Fun fact: Code never Lies,People Do
+- 🔭 Currently working on something really cool.
+- 🎓 I’m a Coding enthusiast & a Problem Solver, currently Pursuing CSE.
+- 🎯 Learning DSA and Web-Devlopment.
+- ⚡ Fun fact: Code never Lies,People Do.
 
