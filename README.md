@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wave-gif.gif" width="40px">, I'm Deepanshu! 🔥</h1>
+<h1 align="center">Hi <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/gopha/gopha-hide.png" width="60px">, I'm Deepanshu! <img src='https://github.com/seanprashad/slackmoji/blob/master/emoji/gopha/gopha-work.png' width="60px"></h1>
 <!-- **xAn-x/xAn-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
